@@ -4,4 +4,4 @@ The idea for this project from JavaScript Web Projects: 20 Projects to Build You
 
 Getting Started
 You need to have basic knowledge of HTML, CSS and Javascript.
-Viewlive
+<a href='https://sahilaghara1911.github.io/quote-generator/'> Viewlive </a>
